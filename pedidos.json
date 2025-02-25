@@ -1,0 +1,109 @@
+[
+    {
+        "nombre": "Erich",
+        "pizzas": "2. Pepperoni",
+        "hora": "2025-02-25 20:00:05"
+    },
+    {
+        "nombre": "Erich",
+        "pizzas": "6. Vegetariana",
+        "hora": "2025-02-25 20:00:05"
+    },
+    {
+        "nombre": "Erich",
+        "pizzas": "4. Hawaiana",
+        "hora": "2025-02-25 20:00:05"
+    },
+    {
+        "nombre": "ere",
+        "pizzas": "3. Cuatro Quesos",
+        "hora": "2025-02-25 20:01:47"
+    },
+    {
+        "nombre": "ere",
+        "pizzas": "5. Barbacoa",
+        "hora": "2025-02-25 20:01:47"
+    },
+    {
+        "nombre": "ere",
+        "pizzas": "5. Barbacoa",
+        "hora": "2025-02-25 20:01:47"
+    },
+    {
+        "nombre": "ere",
+        "pizzas": "5. Barbacoa",
+        "hora": "2025-02-25 20:01:47"
+    },
+    {
+        "nombre": "fefe",
+        "pizzas": [
+            "3. Cuatro Quesos",
+            "6. Vegetariana"
+        ],
+        "hora": "2025-02-25 20:04:07"
+    },
+    {
+        "nombre": "erich",
+        "pizzas": [
+            "2. Pepperoni",
+            "5. Barbacoa",
+            "6. Vegetariana"
+        ],
+        "hora": "2025-02-25 20:07:45"
+    },
+    {
+        "nombre": "RGRE",
+        "pizzas": [
+            "2. Pepperoni",
+            "4. Hawaiana",
+            "5. Barbacoa"
+        ],
+        "hora": "2025-02-25 20:10:01"
+    },
+    {
+        "nombre": "ER",
+        "pizzas": [
+            "2. Pepperoni",
+            "4. Hawaiana",
+            "6. Vegetariana"
+        ],
+        "hora": "2025-02-25 20:12:26"
+    },
+    {
+        "nombre": "erich",
+        "pizzas": [
+            "5. Barbacoa",
+            "4. Hawaiana",
+            "6. Vegetariana"
+        ],
+        "hora": "2025-02-25 20:22:09"
+    },
+    {
+        "nombre": "Erich",
+        "pizzas": "3. Cuatro Quesos",
+        "hora": "2025-02-25 20:24:36"
+    },
+    {
+        "nombre": "Erich",
+        "pizzas": "5. Barbacoa",
+        "hora": "2025-02-25 20:24:53"
+    },
+    {
+        "nombre": "erich",
+        "pizzas": "1. Margarita",
+        "hora": "2025-02-25 20:26:33"
+    },
+    {
+        "nombre": "erich",
+        "pizzas": "4. Hawaiana",
+        "hora": "2025-02-25 20:26:41"
+    },
+    {
+        "nombre": "Erich",
+        "pizzas": [
+            "3. Cuatro Quesos",
+            "4. Hawaiana"
+        ],
+        "hora": "2025-02-25 20:29:35"
+    }
+]
